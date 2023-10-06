@@ -1,0 +1,37 @@
+.navbar {
+    width: 100%;
+    height: 10vh;
+    padding: 10px 20px;
+
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+
+    box-shadow: 0px 1px 5px 1px #00A6FF;
+    -webkit-box-shadow: 0px 1px 5px 1px #00A6FF;
+    -moz-box-shadow: 0px 1px 5px 1px #00A6FF;
+}
+
+.nav-logo {
+    width: 250px;
+}
+.search-input{
+    width: 600px;
+    padding: 10px;
+    outline: none;
+    border: none;
+    border: 2px solid #014366;
+    border-radius: 20px;
+}
+.nav-btn{
+    background-color: #00A6FF;
+    color: #fff;
+    border: none;
+    padding: 10px 20px;
+    border-radius: 10px;
+    cursor: pointer;
+    margin-left: 10px;
+}
+.nav-btn:hover{
+    opacity: .8;
+}
