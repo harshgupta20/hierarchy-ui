@@ -1,70 +1,38 @@
-# Getting Started with Create React App
+# Hierarchy UI | React.js
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+To view the project live [Click Here](https://commutatus-ddc6e.web.app/).
 
-## Available Scripts
+![hierarchy-ui](https://github.com/harshgupta20/hierarchy-ui/assets/59175412/1def6953-5a8d-4627-8af5-8ae815233b67)
 
-In the project directory, you can run:
 
-### `npm start`
+## Technologies Used
+HTML, CSS, Javascript, React, Firebase (Hosting)
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+## Screenshots
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+ ### Home Page
+![1sadsa](https://github.com/harshgupta20/hierarchy-ui/assets/59175412/cf04cb5f-55e1-49dd-aba7-47b75dedb1fa)
 
-### `npm test`
+ ### Search
+![fdsff](https://github.com/harshgupta20/hierarchy-ui/assets/59175412/902f64db-b7d7-4b3e-9857-88dbbae57365)
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+ ### Create Team
+![dsff](https://github.com/harshgupta20/hierarchy-ui/assets/59175412/35217f5f-54cb-44b0-98a7-d1ec5a8cbfc0)
 
-### `npm run build`
+### Member
+![fsdfsads](https://github.com/harshgupta20/hierarchy-ui/assets/59175412/6a784c0b-bcb2-4dae-a80e-bf932ffcb849)
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+and lot more(Please go thourgh with the live link to know more about).
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
 
-### `npm run eject`
-
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
-
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
-
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
-
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+## Use this this project locally
+    - Download or Clone the Repo
+    - Open the downloaded folder in any terminal or Code-Editor
+    - After opening the folder type command `npm install` (It will download all the useful packages and libraries required to run the project)
+    - After completion of "npm install", type "npm start" (the project will open in new tab of browser and run on port 3000)
+    - Congrats, You just started the project locally.
+    
+    
+## To Connect with me
+ - [linkedin](https://www.linkedin.com/in/harshgupta2001/)
